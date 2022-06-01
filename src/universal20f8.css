@@ -3029,7 +3029,7 @@ input[type=number] {
     padding: 0;
 }
 
-.modal-guest-config .copy-public-form,
+.modal-guest-config .copy-ornamennya-form,
 .modal-guest-config .copy-template-text {
     background: #fff;
     border: none;
@@ -3046,7 +3046,7 @@ input[type=number] {
     transition: 0.3s ease-in-out;
 }
 
-.modal-guest-config .copy-public-form:hover,
+.modal-guest-config .copy-ornamennya-form:hover,
 .modal-guest-config .copy-template-text:hover {
     background: var(--wood-clr);
     color: var(--white-clr);
